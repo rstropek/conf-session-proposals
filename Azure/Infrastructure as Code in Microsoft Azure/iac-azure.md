@@ -1,6 +1,6 @@
 # Infrastructure as Code in Microsoft Azure
 
-Infrastructure-as-Code (IaC) is an important aspect of successful DevOps. In this workshop, long-time Microsoft MVP and MS Regional Director Rainer Stropek introduces you to IaC in Microsoft's Azure cloud. Instead of showing slides, Rainer will build an end-to-end sample with you. You will learn about the Azure CLI, Azure Resource Manager (ARM), ARM Templates, and Azure-related GitHub Actions.
+Infrastructure-as-Code (IaC) is an important aspect of successful DevOps. In this workshop, long-time Microsoft MVP and MS Regional Director Rainer Stropek introduces you to IaC in Microsoft's Azure cloud. Instead of showing slides, Rainer will build an end-to-end sample with you. You will learn about the Azure CLI, Azure Resource Manager (ARM), ARM Templates/Bicep, and Azure-related GitHub Actions.
 
 The sample that Rainer uses consists of a Single Page App (SPA) UI, multiple backend services, Azure SQL Databases, virtual networks with private endpoints, DNS zones, and many other things. So you can be sure that you learn IaC in Azure not just in a "Hello World" scenario, but based on a real-world example.
 

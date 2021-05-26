@@ -1,0 +1,3 @@
+# C# Records Inside Out
+
+Wenn man fragt, was die wichtigste Neuerung in C# 9 ist, antworten viele Entwicklerinnen und Entwickler: Records. Tatsächlich ist die Unterstützung von records eine der sichtbarsten und größten Erweiterungen der Programmiersprache in ihrer 9. Version. In dieser Session setzt sich Rainer Stropek – wie gewohnt mit viel Livecoding – im Detail mit C# records auseinander. Wir steigen tief in die Materie ein, schauen uns an, was records können und werfen einen Blick hinter die Kulissen der Umsetzung. Rainer setzt in seinem Vortrag gutes C#-Basiswissen voraus. Vorhandene Kenntnisse über Sprachneuerungen von C# 9 sind nicht notwendig.
